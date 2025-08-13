@@ -1,5 +1,11 @@
 # 💫 About Me:
-A broadly experienced aspiring software developer in both Web and Software Development, with a base in Electrical Engineering. Proficient in front-end and back-end technologies: Python, JavaScript, MySQL.<br><br>Practical experience in developing dynamic web applications and setting up cloud-based environments. Lifelong learning enthusiast seeking a challenging Junior Developer role for technical skills to engage positively in innovative software solutions.<br><br>My passion for learning drives me to explore Machine Learning, and I am developing applications to deepen my understanding of this field.
+I’m a software engineer with a strong focus on AI/ML, full-stack development, and DevOps, driven by a passion for turning cutting-edge technology into practical, impactful solutions.
+
+At AdTecher, I led the development of Selene, an AI-powered agent built on AWS Bedrock, delivering advanced analytics such as AOV and ROAS to support data-driven marketing strategies. I engineered secure authentication systems, designed scalable data pipelines, and integrated APIs for Google Ads and Meta to automate campaign creation—bridging innovation with real-world marketing outcomes.
+
+Beyond AI, I bring expertise in Python, JavaScript, cloud architecture (AWS Lambda, RDBMS, pipelines), and data analytics, with experience in building intuitive web applications and machine learning models, including a Network Intrusion Detection System. My DevOps skills ensure smooth CI/CD pipelines, reliable infrastructure, and optimised workflows.
+
+Whether I’m designing a proof-of-concept, optimising data processing, or deploying production-ready solutions, my approach is always quality-driven, agile, and client-focused—aimed at creating technology that delivers measurable results.
 
 
 ## 🌐 Socials:
